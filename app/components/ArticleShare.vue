@@ -84,7 +84,7 @@ const props = defineProps<{
     path: string
 }>()
 
-const siteUrl = 'https://blog.shiomiolog.com'
+const siteUrl = 'https://blog.skyfelis.jp'
 const copied = ref(false)
 const canShare = ref(false)
 

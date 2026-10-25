@@ -6,7 +6,7 @@
 
 <script setup lang="ts">
 const route = useRoute()
-const siteUrl = 'https://blog.shiomiolog.com'
+const siteUrl = 'https://blog.skyfelis.jp'
 
 const canonicalUrl = computed(() => {
   const path = route.path === '/'

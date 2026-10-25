@@ -57,7 +57,7 @@ export default defineEventHandler(async (event) => {
 
   // 4. 署名付きURLの発行
   const uploadUrl = await getSignedUrl(s3, command, { expiresIn: 600 })
-  const publicUrl = `https://blog-asset.shiomiolog.com/${key}` // ご自身のドメイン
+  const publicUrl = `https://blog-asset.skyfelis.jp/${key}` // ご自身のドメイン
 
   return {
     uploadUrl,

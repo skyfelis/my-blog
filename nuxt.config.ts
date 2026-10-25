@@ -1,7 +1,7 @@
 // nuxt.config.ts
 export default defineNuxtConfig({
   site: {
-    url: 'https://blog.shiomiolog.com',
+    url: 'https://blog.skyfelis.jp',
     name: '潮の香りのする猫の足跡',
     trailingSlash: true
   },

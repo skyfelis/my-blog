@@ -7,7 +7,7 @@ category:
 description: 海辺の街で出会った猫たちと、潮の香りが漂う路地裏の風景についてまとめてみました。
 ---
 
-![2026-08-18-3](https://blog-asset.shiomiolog.com/posts/2026-08-18-3.webp)
+![2026-08-18-3](https://blog-asset.skyfelis.jp/posts/2026-08-18-3.webp)
 
 先日、8月15日～16日に東京ビックサイトにて開催されたコミックマーケット108（C108）に参加してきました。  
 今回は学術アイドルマスター合同へ寄稿していたのと、フォロワーさんのサークルにて売り子をすることがあり、そちらメインで参加していました。（学術アイドルマスター合同はググってください）  
@@ -18,14 +18,14 @@ description: 海辺の街で出会った猫たちと、潮の香りが漂う路�
 
 その後2日目のサークルの搬入、寄稿した学術アイマス合同の前日搬入のお手伝いをするために荷物が届くのを待ってた。
 
-![2026-08-18-2](https://blog-asset.shiomiolog.com/posts/2026-08-18-2.webp)
+![2026-08-18-2](https://blog-asset.skyfelis.jp/posts/2026-08-18-2.webp)
 
 「おお」  
 トラックに積まれた学術アイマス合同の段ボールの山を見てなんだこれと。
 まあ分厚くなった要因の一人なんですがね。
 
-![2026-08-18-5](https://blog-asset.shiomiolog.com/posts/2026-08-18-5.webp)
-![2026-08-18-6](https://blog-asset.shiomiolog.com/posts/2026-08-18-6.webp)
+![2026-08-18-5](https://blog-asset.skyfelis.jp/posts/2026-08-18-5.webp)
+![2026-08-18-6](https://blog-asset.skyfelis.jp/posts/2026-08-18-6.webp)
 
 寄稿者献本をもらったのですがなんだか分厚い薄い本だぁ。  
 2kgくらいあるんだぜぇ。でけーよと実物見て思った（笑）
@@ -47,7 +47,7 @@ U-4さんのサークル 2日目 南1a-46ab にて売り子をしていました
 
 ## まとめ
 
-![2026-08-18-7](https://blog-asset.shiomiolog.com/posts/2026-08-18-7.webp)
+![2026-08-18-7](https://blog-asset.skyfelis.jp/posts/2026-08-18-7.webp)
 
 戦利品！
 

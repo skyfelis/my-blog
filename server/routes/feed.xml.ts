@@ -1,4 +1,4 @@
-const siteUrl = 'https://blog.shiomiolog.com'
+const siteUrl = 'https://blog.skyfelis.jp'
 const feedUrl = `${siteUrl}/feed.xml`
 
 const xmlEntities: Record<string, string> = {
