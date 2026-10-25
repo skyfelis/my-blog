@@ -49,11 +49,11 @@ onMounted(() => {
 })
 
 const categoryTree = computed(() => {
-    const tree: Record<string, Set<string>> = {}
+    const tree: Record<string, Set<string>> = {
+        '同人活動': new Set(['寄稿', '個人サークル'])
+    }
 
-    if (!posts.value) return {}
-
-    for (const post of posts.value) {
+    for (const post of posts.value ?? []) {
         const parent = post.category?.parent
         const child = post.category?.child
 

@@ -7,7 +7,7 @@
             </p>
 
             <div class="mt-5 flex items-start gap-4">
-                <img src="/avatar.webp" alt="汐猫みお" class="h-16 w-16 shrink-0 rounded-full object-cover grayscale-[15%]">
+                <img src="/avatar.png" alt="汐猫みお" class="h-16 w-16 shrink-0 rounded-full object-cover">
 
                 <div>
                     <h2 class="font-semibold leading-snug text-slate-900">
@@ -26,14 +26,14 @@
                 学士（IT総合学）
             </p>
 
-            <a href="https://x.com/shiomiolog" target="_blank" rel="noopener noreferrer"
+            <a href="https://x.com/skyfelis" target="_blank" rel="noopener noreferrer"
                 class="inline-flex items-center gap-2 border-b border-slate-400 pb-1 text-xs text-slate-700 transition-colors hover:border-[#5A98D8] hover:text-[#5A98D8]">
                 <svg aria-hidden="true" class="h-3.5 w-3.5 shrink-0" viewBox="0 0 24 24" fill="currentColor">
                     <path
                         d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
                 </svg>
 
-                <span>@shiomiolog</span>
+                <span>@skyfelis</span>
                 <span aria-hidden="true" class="font-mono text-[10px]">↗</span>
             </a>
         </section>

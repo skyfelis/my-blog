@@ -31,7 +31,7 @@ export default defineNuxtConfig({
   sitemap: {
     zeroRuntime: true,
     exclude: [
-      '/avatar.webp',
+      '/avatar.png',
       '/feed.xml'
     ]
   },

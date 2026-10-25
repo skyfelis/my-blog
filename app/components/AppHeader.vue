@@ -13,7 +13,7 @@
                     </svg>
 
                     <span class="text-xs font-semibold tracking-[0.22em] text-[#5A98D8]">
-                        SHIOMIOLOG
+                        SKYFELIS
                     </span>
                 </div>
                 <span
@@ -61,11 +61,6 @@
                     Contact
                 </NuxtLink>
 
-                <a href="https://shiomiolog.com/" target="_blank" rel="noopener noreferrer"
-                    class="inline-flex items-center gap-1 py-2 text-sm tracking-wide text-slate-700 transition-colors hover:text-[#5A98D8] sm:py-1">
-                    Portal
-                    <span aria-hidden="true" class="font-mono text-[10px]">↗</span>
-                </a>
             </nav>
         </div>
     </header>

@@ -9,7 +9,7 @@
                     RSS
                 </a>
             </div>
-            <p>&copy; {{ new Date().getFullYear() }} My Blog. All rights reserved.</p>
+            <p>&copy; {{ new Date().getFullYear() }} SKYFELIS. All rights reserved.</p>
         </div>
     </footer>
 </template>

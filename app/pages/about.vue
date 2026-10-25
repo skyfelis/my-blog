@@ -23,7 +23,7 @@
                     </p>
                 </div>
 
-                <img src="/avatar.webp" alt="汐猫みおのアバター"
+                <img src="/avatar.png" alt="汐猫みおのアバター"
                     class="h-24 w-24 rounded-full border border-slate-300 object-cover sm:h-28 sm:w-28">
             </div>
         </header>
@@ -141,19 +141,13 @@
             </div>
 
             <nav aria-label="外部リンク" class="flex flex-col">
-                <a href="https://shiomiolog.com/" target="_blank" rel="noopener noreferrer"
-                    class="group flex items-center justify-between border-t border-slate-200 py-4 text-sm text-slate-700 transition-colors hover:text-[#5A98D8]">
-                    <span>Portal</span>
-                    <span aria-hidden="true" class="transition-transform group-hover:translate-x-1">↗</span>
-                </a>
-
-                <a href="https://github.com/shiomiolog" target="_blank" rel="noopener noreferrer"
+                <a href="https://github.com/skyfelis" target="_blank" rel="noopener noreferrer"
                     class="group flex items-center justify-between border-t border-slate-200 py-4 text-sm text-slate-700 transition-colors hover:text-[#5A98D8]">
                     <span>GitHub</span>
                     <span aria-hidden="true" class="transition-transform group-hover:translate-x-1">↗</span>
                 </a>
 
-                <a href="https://x.com/shiomiolog" target="_blank" rel="noopener noreferrer"
+                <a href="https://x.com/skyfelis" target="_blank" rel="noopener noreferrer"
                     class="group flex items-center justify-between border-y border-slate-200 py-4 text-sm text-slate-700 transition-colors hover:text-[#5A98D8]">
                     <span>X</span>
                     <span aria-hidden="true" class="transition-transform group-hover:translate-x-1">↗</span>
